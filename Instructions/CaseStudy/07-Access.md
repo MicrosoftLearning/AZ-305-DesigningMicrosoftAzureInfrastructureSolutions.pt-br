@@ -9,11 +9,11 @@ casestudy:
 
 ## Requisitos
 
-A Tailwind Traders está indo muito bem e está expandindo sua força de trabalho. Ela adquiriu um varejista on-line no espaço de vestuário esportivo. A empresa também localizou um parceiro para terceirizar a literatura de marketing. A Tailwind Traders está usando o Azure Active Directory para contas de usuário e grupos. Aqui estão duas iniciativas específicas com as quais o departamento de TI gostaria que você ajudasse. 
+A Tailwind Traders está indo muito bem e está expandindo sua força de trabalho. Ela adquiriu um varejista on-line no espaço de vestuário esportivo. A empresa também localizou um parceiro para terceirizar a literatura de marketing. A Tailwind Traders está usando o Entra ID para contas de usuários e grupos. Aqui estão duas iniciativas específicas com as quais o departamento de TI gostaria que você ajudasse. 
 
 **Novas contas de usuário**
 
-  * A aquisição da varejista online adicionará 75 funcionários à Tailwind Traders. Todos os novos usuários têm contas locais do Active Directory Domain Services no domínio existente do varejista.
+  * A aquisição da varejista online adicionará 75 funcionários à Tailwind Traders. Todos os novos usuários têm contas locais no domínio existente do varejista.
 
   * O novo parceiro de marketing terá, inicialmente, 15 funcionários que precisarão de acesso corporativo. Esses funcionários já têm identidades do Microsoft Entra no locatário do Microsoft Entra do parceiro.  
 
