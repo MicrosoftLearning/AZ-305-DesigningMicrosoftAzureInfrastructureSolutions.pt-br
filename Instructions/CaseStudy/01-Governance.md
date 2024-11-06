@@ -18,7 +18,7 @@ A Tailwind Traders está planejando fazer algumas alterações significativas na
 
 1. **Custo e contabilização** 
 
-    * Quais são as diferentes maneiras pelas quais a Tailwind Traders pode organizar suas assinaturas e grupos de gerenciamento? Qual seria a melhor opção para atender às necessidades da empresa? 
+    * Quais são as diferentes maneiras pelas quais a Tailwind Traders pode organizar suas assinaturas e grupos de gerenciamento? Qual seria a melhor para atender às suas necessidades? 
 
     * Crie duas hierarquias alternativas e explique seu processo de tomada de decisão.
 

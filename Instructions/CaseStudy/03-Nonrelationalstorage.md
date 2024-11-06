@@ -27,7 +27,7 @@ A Tailwind Traders quer reduzir os custos de armazenamento, reduzindo o conteúd
 
 1. Projete uma solução de armazenamento para a Tailwind Traders. 
 
-      * Que tipo de dados são representados? 
+      * Que tipos de dados são representados? 
 
       * Quais fatores você considerará em seu projeto?
 
